@@ -1,5 +1,5 @@
 # kindly-app
-48-hour hackathon project for DEVS 2022 Hackathon @ UOA
+ Two days hackathon project for RM201 and RM101 2022 Hackathon @ Masai_School
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/19633284/178218637-1d7e00d9-40f6-4ca4-af0c-7ceea9761a21.png">
 
@@ -37,12 +37,8 @@ Frameworks used include React, styled-components, Material UI, MongoDB, Express 
 
 ### Contributors
 
-- Raymond Feng
-- Daniel Torrey
-- Youxiang Lei
-- Brendan Zhou
-- Harshal Damania
-- Eve Zhang
+-Rakesh Kumar Swain
+-Abhisheek Dewangan
 
 ### Other screenshots of project
 
